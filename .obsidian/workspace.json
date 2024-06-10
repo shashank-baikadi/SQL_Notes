@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sub queries/Types of Sub Queries/Table.md",
+                "file": "Obsidian to Git/Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sub queries/Types of Sub Queries/Table.md",
+                "file": "Obsidian to Git/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sub queries/Types of Sub Queries/Table.md",
+                "file": "Obsidian to Git/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sub queries/Types of Sub Queries/Table.md"
+                "file": "Obsidian to Git/Commands.md"
               }
             }
           }
@@ -221,8 +221,10 @@
   },
   "active": "b249b1e11af767d2",
   "lastOpenFiles": [
-    "Sub queries/Types of Sub Queries/Row.md",
     "Sub queries/Types of Sub Queries/Table.md",
+    "Obsidian to Git/Commands.md",
+    "Obsidian to Git",
+    "Sub queries/Types of Sub Queries/Row.md",
     "Sub queries/Types of Sub Queries/Column.md",
     "Sub queries/Types of Sub Queries/Scalar.md",
     "Sub queries/Types of Sub Queries/Intro.md",
@@ -250,7 +252,6 @@
     "Data Manipulation Language (DML)/Aggregrate Queries/Aggregate Queries.md",
     "Data Manipulation Language (DML)/Aggregrate Queries/COUNT.md",
     "Data Manipulation Language (DML)/Aggregrate Queries/AVG.md",
-    "Data Manipulation Language (DML)/Aggregrate Queries/MIN.md",
     "Data Manipulation Language (DML)/Aggregrate Queries",
     "Data Manipulation Language (DML)",
     "Data Defination Language(DDL)",
